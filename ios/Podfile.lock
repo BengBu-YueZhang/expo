@@ -1663,7 +1663,7 @@ SPEC CHECKSUMS:
   GoogleSymbolUtilities: 631ee17048aa5e9ab133470d768ea997a5ef9b96
   GoogleToolboxForMac: 91c824d21e85b31c2aae9bb011c5027c9b4e738f
   GoogleUtilities: 8bbc733218aad26306f9d4a253823986110e3358
-  GTMOAuth2: e8b6512c896235149df975c41d9a36c868ab7fba
+  GTMOAuth2: c77fe325e4acd453837e72d91e3b5f13116857b2
   GTMSessionFetcher: 0c4baf0a73acd0041bf9f71ea018deedab5ea84e
   JKBigInteger2: e91672035c42328c48b7dd015b66812ddf40ca9b
   lottie-ios: d699fdee68d7b63e721d949388b015fef1aaa4ac
